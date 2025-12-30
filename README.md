@@ -1,4 +1,4 @@
-# Hi, I'm Moyinoluwa Adegbolu 👋
+# Moyinoluwa Adegbolu 
 
 ## Network Engineer | Cloud & Automation Enthusiast | Building Toward Deployment Engineering
 
